@@ -26,7 +26,7 @@
 
     <body>
         <div class="container">
-            <h1>Multi Select with multi.js</h1>
+            <h1>Codeigniter with multi.js</h1>
 
              <!-- <form method=post action=welcome/simpan> -->
                 <?php
