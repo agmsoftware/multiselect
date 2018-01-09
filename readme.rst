@@ -1,17 +1,49 @@
-#######################
-Codeigniter + Multi.js
-#######################
+Baca dengan Teliti dan Seksama !
 
-Contoh penggunaan Codeigniter dengan Multi.js
+##################################
+Source Code : Codeigniter dan Multi.js
+##################################
 
-#######################
-Versi
-#######################
+Silahkan pelajari source code ini untuk meningkatkan skill yang sudah anda miliki
 
-Januari 2018
 
-#######################
-Developer
-#######################
+*******************
+Perhatian
+*******************
 
-AGM Software Indonesia ( agmsoftware.id ) &copy; 2018
+Aplikasi yang ada di repository ini, sebagian besar logikanya mirip dengan yang ada di internet dan
+bisa anda googling.
+
+
+********
+Fitur
+********
+
+Aplikasi ini hanya contoh untuk menunjukkan cara input data dengan Multi.js
+
+
+**********************
+Tools
+**********************
+
+| Codeigniter versi 3.1.6
+| Multi.js https://github.com/Fabianlindfors/multi.js
+
+
+
+*******
+Lisensi
+*******
+
+Source Code di repo ini sepenuhnya milik AGM Software dan hanya untuk kepentingan belajar / latihan / referensi semata.
+
+Silahkan kontak agmsoftware.indonesia@gmail.com / whatsapp +62 8389 624 7627 untuk kerjasama pengembangan sistem informasi berbasis web
+
+
+***************
+Tanggung Jawab
+***************
+
+Saya setuju bahwa segala bentuk pelanggaran Lisensi yang saya lakukan, akan saya pertanggungjawabkan dihadapan Allah SWT atau Tuhan YME
+
+Terima Kasih
