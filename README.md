@@ -1,8 +1,8 @@
 Baca dengan Teliti dan Seksama !
 
-##################################
+#####################################
 Source Code : Codeigniter dan Multi.js
-##################################
+#####################################
 
 Silahkan pelajari source code ini untuk meningkatkan skill yang sudah anda miliki
 
