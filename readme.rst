@@ -38,12 +38,3 @@ Lisensi
 Source Code di repo ini sepenuhnya milik AGM Software dan hanya untuk kepentingan belajar / latihan / referensi semata.
 
 Silahkan kontak agmsoftware.indonesia@gmail.com / whatsapp +62 8389 624 7627 untuk kerjasama pengembangan sistem informasi berbasis web
-
-
-***************
-Tanggung Jawab
-***************
-
-Saya setuju bahwa segala bentuk pelanggaran Lisensi yang saya lakukan, akan saya pertanggungjawabkan dihadapan Allah SWT atau Tuhan YME
-
-Terima Kasih
